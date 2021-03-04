@@ -1,0 +1,10 @@
+{
+  "projectId":"RegresionTest",
+  "chromeWebSecurity": false  ,  
+  "trashAssetsBeforeRuns" : true,
+  "screenshotsFolder" : "screenshotsFolder" ,
+  "video": false ,
+  "env" : { 
+	"baseFolder" : "C:\\Users\\raulg\\Documents\\UniAndes\\PruebasAutomaticas\\testRegresionVisual\\results\\"
+  }
+}
